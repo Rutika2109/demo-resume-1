@@ -4,4 +4,4 @@ plugins:
   - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: "Rutika Mahagaokar"
-description: "Identifying opportunities and converting them to workable solutions"
+description: "Identifying opportunities to build workable solutions"
